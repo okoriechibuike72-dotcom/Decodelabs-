@@ -9,7 +9,7 @@ Analyze a dataset via EDA
 # TOOLS USED
 •	Microsoft Excel
 # TASKS PERFORMED
-•	Mean value of the total price
+•	Mean value of the prices
 •	Median value of the total price
 •	Minimum value of the total price
 •	Maximum value of the total price
